@@ -1,0 +1,115 @@
+## Misc. sites from 599 reports
+
+
+RedirectSafe www.science.org/journal/sciadv
+
+## Open access publishers' sites
+RedirectSafe archive.org
+RedirectSafe arxiv.org
+RedirectSafe bjr.sbpjor.org.br
+RedirectSafe cie.asu.edu
+RedirectSafe davisart.com
+RedirectSafe digitalcultureandeducation.com
+RedirectSafe doabooks.org
+RedirectSafe doaj.org
+RedirectSafe dovepress.com
+RedirectSafe dsr.ju.edu.jo
+RedirectSafe ijoc.org
+RedirectSafe impulse.appstate.edu
+RedirectSafe impulse.pubpub.org
+RedirectSafe iovs.arvojournals.org
+RedirectSafe jseg.ro
+RedirectSafe justia.com
+RedirectSafe lijecnicki-vjesnik.hlz.hr
+RedirectSafe matteringpress.org
+RedirectSafe meson.press
+RedirectSafe nsuworks.nova.edu
+RedirectSafe oapen.org
+RedirectSafe okstate.edu
+RedirectSafe openbookpublishers.com
+RedirectSafe openhumanitiespress.org
+RedirectSafe plos.org
+RedirectSafe rangelands.org
+RedirectSafe revactamedicacentro.sld.cu
+RedirectSafe scindeks.ceon.rs
+RedirectSafe seaopenresearch.eu
+RedirectSafe sloanreview.mit.edu
+RedirectSafe utgjiu.ro
+RedirectSafe vimeo.com
+RedirectSafe youtube.com
+
+# Scielo sites start
+RedirectSafe cienciaecultura.bvs.br
+RedirectSafe revistapesquisa.fapesp.br
+RedirectSafe scielo.br
+RedirectSafe scielo.cl
+RedirectSafe scielo.edu.uy
+RedirectSafe scielo.iics.es
+RedirectSafe scielo.iics.una.py
+RedirectSafe scielo.mec.pt
+RedirectSafe scielo.org
+RedirectSafe scielo.org.ar
+RedirectSafe scielo.org.bo
+RedirectSafe scielo.org.co
+RedirectSafe scielo.org.mx
+RedirectSafe scielo.org.pe
+RedirectSafe scielo.org.za
+RedirectSafe scielo.sa.cr
+RedirectSafe scielo.senescyt.gob.ec
+RedirectSafe scielo.sld.cu
+RedirectSafe scielosp.org
+# Scielo sites end
+
+## Governments, etc.
+
+# US governments, federal to local
+RedirectSafe *.gov
+# US federal
+RedirectSafe *.fed.us
+RedirectSafe *.isa.us
+RedirectSafe *.nsn.us
+RedirectSafe *.dni.us
+RedirectSafe *.mil
+# US military colleges & academies
+RedirectSafe *.armywarcollege.edu
+RedirectSafe *.uscga.edu
+RedirectSafe *.usafa.edu
+RedirectSafe *.usahec.org
+RedirectSafe *.usna.edu
+RedirectSafe *.westpoint.edu
+# US states
+RedirectSafe *.??.us
+# OK courts
+RedirectSafe oscn.net
+
+# Australia gov sites
+RedirectSafe *.gov.au
+
+# Canada gov sites
+RedirectSafe *.gov.ca
+
+# European Union
+RedirectSafe europa.eu
+
+# UK gov sites
+RedirectSafe *.bl.uk
+RedirectSafe *.gov.uk
+RedirectSafe *.mil.uk
+RedirectSafe *.mod.uk
+RedirectSafe *.nhs.uk
+RedirectSafe *.parliament.uk
+RedirectSafe *.police.uk
+
+# United Nations
+RedirectSafe fao.org
+RedirectSafe ilo.org
+RedirectSafe imf.org
+RedirectSafe itu.int
+RedirectSafe un.org
+RedirectSafe unesco.org
+RedirectSafe unicef.org
+RedirectSafe who.int
+RedirectSafe wipo.int
+RedirectSafe wmo.int
+RedirectSafe worldbank.org
+RedirectSafe un.org
